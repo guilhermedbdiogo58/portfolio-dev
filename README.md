@@ -6,7 +6,7 @@ Aqui compartilho meus principais trabalhos e estudos na área de Ciência da Com
 
 ## 📌 Sobre mim
 Sou estudante/desenvolvedor com interesse em computação.  
-Tenho como objetivo atuar em **[aspiração profissional, ex: desenvolvimento web, backend, IA, etc.]**, sempre buscando evoluir minhas habilidades e contribuir com soluções criativas e eficientes.
+Tenho como objetivo atuar efetivamente na minha área, sempre buscando evoluir minhas habilidades e contribuir com soluções criativas e eficientes.
 
 ---
 
@@ -24,4 +24,6 @@ Tenho como objetivo atuar em **[aspiração profissional, ex: desenvolvimento we
 ---
 
 ## 📂 Projetos
+https://github.com/guilhermedbdiogo58/-C--EDL
+https://github.com/guilhermedbdiogo58/Java-CGPI
 
